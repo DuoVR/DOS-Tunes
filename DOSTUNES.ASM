@@ -1,7 +1,6 @@
 TITLE dostunes
 
 ; DOSTUNES.ASM
-; Duo Gong
 ; Fall 2012
 
 INCLUDE Irvine16.inc
